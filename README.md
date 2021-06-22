@@ -1,2 +1,2 @@
-# golang-training
- Go fundamentals for developers
+# Go/Golang Training
+Go fundamentals for developers.
