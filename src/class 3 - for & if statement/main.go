@@ -23,7 +23,7 @@ func main(){
 	fmt.Println(html)
 
 	// Avoid infinite loops
-    /* 
+        /* 
 	for {
 		fmt.Printf("Infinity\n")  
 	  } 
