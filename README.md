@@ -6,6 +6,7 @@ This course of Go Fundamentals is part of a training given by Alejandro Llangana
 - [Pointers](https://github.com/Club-de-Software-EPN/golang-training/blob/master/src/class%202%20-%20pointers/main.go)
 - [For & If statement](https://github.com/Club-de-Software-EPN/golang-training/blob/master/src/class%203%20-%20for%20%26%20if%20statement/main.go)
 - [Download an image](https://github.com/Club-de-Software-EPN/golang-training/blob/master/src/class%204%20-%20download%20an%20image%20/main.go) 
+- [Switch statement & Regexp](https://github.com/Club-de-Software-EPN/golang-training/blob/master/src/class%205%20-%20switch%20&%20regexp%20/main.go) 
  
 ## Considerations
 - Clone this repository:
