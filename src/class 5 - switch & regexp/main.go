@@ -36,9 +36,9 @@ func main(){
 
 	switch number {
 	case 0:
-		fmt.Println("You enter the number 0")
+		fmt.Println("You enter number 0")
 	case 3:
-		fmt.Println("You enter the number 3")
+		fmt.Println("You enter number 3")
 	default:
 		fmt.Println("You enter an other number")
 	}
@@ -46,7 +46,7 @@ func main(){
 	// Switch with a condition
 	switch number%2 {
 	case 0:
-		fmt.Println("Pair")
+		fmt.Println("Even")
 	default:
 		fmt.Println("Odd")
 	}
