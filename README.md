@@ -9,6 +9,7 @@ This course of Go Fundamentals is part of a training given by Alejandro Llangana
 - [Switch statement & Regexp](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%205%20-%20switch%20%26%20regexp) 
 - [Arrays & Slices](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%206%20-%20arrays%20%26%20slices)
 - [Functions](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%207%20-%20functions/main.go)
+- [Introduction to structs](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%208%20-%20structs)
 - [Http & Write a File using functions](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%209%20-%20http%20%26%20write%20a%20file%20using%20functions)
  
  
