@@ -1,0 +1,16 @@
+-------- Example 1 --------
+Ola
+Bini
+35
+-------- Example 2 - defer on name --------
+Bini
+35
+Ola
+-------- Example 3 - defer on name and lastname --------
+35
+Bini
+Ola
+35
+Bini
+Ola
+-------- Example 4 - defer on everything --------
