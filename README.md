@@ -11,7 +11,8 @@ This course of Go Fundamentals is part of a training given by Alejandro Llangana
 - [Functions](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%207%20-%20functions/main.go)
 - [Introduction to structs](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%208%20-%20structs)
 - [Http & Write a File using functions](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%209%20-%20http%20%26%20write%20a%20file%20using%20functions)
- 
+- [Defer](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2010%20-%20defer)
+- [Write CSV records](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2011%20-%20csv)
  
 ## Considerations
 - Clone this repository:
