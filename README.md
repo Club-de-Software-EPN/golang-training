@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Go/Golang Training
-This course of Go Fundamentals is part of a training given by Alejandro Llanganate to the members of the club's cybersecurity team. 
-
+This course of Go Fundamentals is part of a training given by Alejandro Llanganate to the members of the club's cybersecurity team.
+---
 ## Topics
 - [Basic Syntax & Variables](https://github.com/Club-de-Software-EPN/golang-training/blob/master/src/class%201%20-%20variables%20%26%20fmt/main.go)
 - [Pointers](https://github.com/Club-de-Software-EPN/golang-training/blob/master/src/class%202%20-%20pointers/main.go)
