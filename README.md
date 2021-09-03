@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Go/Golang Training
+
 This course of Go Fundamentals is part of a training given by Alejandro Llanganate to the members of the club's cybersecurity team.
----
+
 ## Topics
 - [Basic Syntax & Variables](https://github.com/Club-de-Software-EPN/golang-training/blob/master/src/class%201%20-%20variables%20%26%20fmt/main.go)
 - [Pointers](https://github.com/Club-de-Software-EPN/golang-training/blob/master/src/class%202%20-%20pointers/main.go)
@@ -13,6 +14,7 @@ This course of Go Fundamentals is part of a training given by Alejandro Llangana
 - [Http & Write a File using functions](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%209%20-%20http%20%26%20write%20a%20file%20using%20functions)
 - [Defer](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2010%20-%20defer)
 - [Write CSV records](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2011%20-%20csv)
+- [Capturing a screenshot - Linux](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2012%20-%20screenshot)
  
 ## Considerations
 - Clone this repository:
