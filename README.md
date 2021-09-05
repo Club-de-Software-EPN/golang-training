@@ -15,7 +15,8 @@ This course of Go Fundamentals is part of a training given by Alejandro Llangana
 - [Defer](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2010%20-%20defer)
 - [Write CSV records](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2011%20-%20csv)
 - [Capturing a screenshot - Linux](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2012%20-%20screenshot)
- 
+- [Capturing a screenshot - Cross-platform](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2013%20-%20screenshots%20cross-platform)
+
 ## Considerations
 - Clone this repository:
   ```
