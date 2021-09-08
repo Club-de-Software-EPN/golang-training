@@ -17,6 +17,7 @@ This course of Go Fundamentals is part of a training given by Alejandro Llangana
 - [Write JSON records](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2014%20-%20json)
 - [Capturing a screenshot - Linux](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2012%20-%20screenshots)
 - [Capturing a screenshot - Cross-platform](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2013%20-%20screenshots%20cross-platform)
+- [Sending Emails with Golang](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2015%20-%20send%20an%20email)
 
 ## Considerations
 - Clone this repository:
