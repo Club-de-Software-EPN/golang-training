@@ -14,6 +14,7 @@ This course of Go Fundamentals is part of a training given by Alejandro Llangana
 - [Http & Write a File using functions](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%209%20-%20http%20%26%20write%20a%20file%20using%20functions)
 - [Defer](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2010%20-%20defer)
 - [Write CSV records](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2011%20-%20csv)
+- [Write JSON records](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2014%20-%20json)
 - [Capturing a screenshot - Linux](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2012%20-%20screenshots)
 - [Capturing a screenshot - Cross-platform](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2013%20-%20screenshots%20cross-platform)
 
