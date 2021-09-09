@@ -37,7 +37,7 @@ func main(){
 }
 ```
 
-**Posible output:**
+**Possible output:**
 ```
 Alejandro
 ```
@@ -57,7 +57,7 @@ func main(){
 }
 ```
 
-**Posible output:**
+**Possible output:**
 ```
 Alejandro
 Llanganate
@@ -74,7 +74,7 @@ func main(){
 }
 ```
 
-**Posible output:**
+**Possible output:**
 ```
 Alejandro
 Valencia
