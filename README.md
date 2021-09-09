@@ -14,10 +14,14 @@ This course of Go Fundamentals is part of a training given by Alejandro Llangana
 - [Introduction to structs](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%208%20-%20structs)
 - [Defer](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2010%20-%20defer)
 
+### Advanced
+- [Create a goroutine](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/goroutines/0%20-%20create%20a%20goroutine)
+
 ### Related to the Golang Web Scraper Project
 - [Write CSV records](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2011%20-%20csv)
 - [Write JSON records](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2014%20-%20json)
 - [Http & Write a File using functions](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%209%20-%20http%20%26%20write%20a%20file%20using%20functions)
+- [Introduction to Colly](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2016%20-%20Introduction%20to%20Colly)
 
 ### Related to Keylogger Project
 - [Capturing a screenshot - Linux](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2012%20-%20screenshots)
