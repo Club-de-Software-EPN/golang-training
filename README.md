@@ -11,7 +11,10 @@ This course of Go Fundamentals is part of a training given by Alejandro Llangana
 - [Switch statement & Regexp](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%205%20-%20switch%20%26%20regexp) 
 - [Arrays & Slices](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%206%20-%20arrays%20%26%20slices)
 - [Functions](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%207%20-%20functions/main.go)
+- [Map](https://github.com/Club-de-Software-EPN/golang-training/blob/master/src/map/map.go)
+- [Go Modules](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/modules)
 - [Introduction to structs](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%208%20-%20structs)
+- [Structs - Part 2](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/structs-2)
 - [Defer](https://github.com/Club-de-Software-EPN/golang-training/tree/master/src/class%2010%20-%20defer)
 
 ### Advanced
